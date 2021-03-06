@@ -996,3 +996,12 @@ p, span {
         font-size: 1em;
     }
 }
+
+
+/* attribute to psd */
+.attribute {
+    color: rgb(56, 174, 56);
+    position: fixed;
+    bottom: 5px;
+    right: 10px;
+}
